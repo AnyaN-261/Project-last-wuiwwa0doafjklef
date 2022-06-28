@@ -1,0 +1,23 @@
+body
+{
+background-size:cover;
+
+}
+.heading {
+    width:100%;
+}
+.heading button {
+    float: right;
+}
+#start, #restart {
+    font-size:22px;
+}
+.footer {
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:grey;
+    line-height: 3;
+    text-align:center;
+}
